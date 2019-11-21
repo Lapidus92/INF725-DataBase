@@ -1,4 +1,10 @@
 # INF725-DataBase
 
-<p> Ensemble des ressources concernant l'enseignement INF725 relatvies aux bases de données relationnels.</p>
-<p>Le dossier TP contient l'ensemble des TPs soumis pour correction.</p>
+<p> Basic notions about DataBase :
+  <ul>
+    <li> B-Tree</li>
+    <li> Functional dependencies</li>
+    <li> Normalisation (1NF to BCNF </li>
+    <li> Relations, query optimisation</li>
+  </ul>
+  </p>
